@@ -4,8 +4,8 @@
 	<hr>
 		<form action="verify">
 		<pre>
-		Userid			<input type="text" name="t1"/>
-		Password		<input type="password" name="t2"/>
+		Userid			<input type="text" name="userid"/>
+		Password		<input type="password" name="password"/>
 		</pre>
 					<input type="submit" value="Login"/>
 		</form>
